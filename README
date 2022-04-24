@@ -1,0 +1,5 @@
+Programs to take newline-delimited integer and print their sum or cumulatively
+print their sum.
+
+Written in a handful of langs - fastest/best impl is gmp.c, which uses GMP for
+arbitrary precision and -c to switch on cumulative sums.
